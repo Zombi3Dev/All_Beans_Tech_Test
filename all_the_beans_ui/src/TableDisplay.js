@@ -4,7 +4,8 @@ import {
     TableContainer, 
     TableHead, 
     TableRow, 
-    TableCell } 
+    TableCell, 
+    TableBody} 
 from '@mui/material';
 import Paper from '@mui/material/Paper';
 
@@ -21,6 +22,10 @@ function TableDisplay({data}) {
                         <TableCell align="right">Cost</TableCell>
                         </TableRow>
                     </TableHead>     
+                    {/*Data fetched from api and passed in as data to table body which loads daily*/}
+                    <TableBody>
+                        
+                    </TableBody>
 
                 </Table>
             </TableContainer>
