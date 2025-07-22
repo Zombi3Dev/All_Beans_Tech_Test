@@ -1,12 +1,37 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\nadi_\\source\\repos\\All_Beans_Tech_Test\\all_the_beans_api\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5410E320-67EE-4566-810C-FD084739B612}|all_the_beans_api\\all_the_beans_api.csproj|c:\\users\\nadi_\\source\\repos\\all_beans_tech_test\\all_the_beans_api\\all_the_beans_api\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5410E320-67EE-4566-810C-FD084739B612}|all_the_beans_api\\all_the_beans_api.csproj|solutionrelative:all_the_beans_api\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\nadi_\\source\\repos\\All_Beans_Tech_Test\\all_the_beans_api\\all_the_beans_api\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "all_the_beans_api\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\nadi_\\source\\repos\\All_Beans_Tech_Test\\all_the_beans_api\\all_the_beans_api\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "all_the_beans_api\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T15:35:43.719Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
