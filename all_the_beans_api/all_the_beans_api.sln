@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36203.30 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "all_the_beans_api", "all_the_beans_api\all_the_beans_api.csproj", "{5410E320-67EE-4566-810C-FD084739B612}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5410E320-67EE-4566-810C-FD084739B612}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5410E320-67EE-4566-810C-FD084739B612}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5410E320-67EE-4566-810C-FD084739B612}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5410E320-67EE-4566-810C-FD084739B612}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {434B9CAE-5D50-49FD-9F11-79B38E1C01C4}
+	EndGlobalSection
+EndGlobal

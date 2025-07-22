@@ -1,0 +1,6 @@
+@all_the_beans_api_HostAddress = http://localhost:5294
+
+GET {{all_the_beans_api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

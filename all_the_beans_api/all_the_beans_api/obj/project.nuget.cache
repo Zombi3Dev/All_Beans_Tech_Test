@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "wu7puYa54uA=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\nadi_\\source\\repos\\All_Beans_Tech_Test\\all_the_beans_api\\all_the_beans_api\\all_the_beans_api.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\nadi_\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.7\\microsoft.aspnetcore.openapi.9.0.7.nupkg.sha512",
+    "C:\\Users\\nadi_\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}
