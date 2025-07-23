@@ -32,3 +32,4 @@ C:\Users\nadi_\source\repos\All_Beans_Tech_Test\all_the_beans_api\all_the_beans_
 C:\Users\nadi_\source\repos\All_Beans_Tech_Test\all_the_beans_api\all_the_beans_api\obj\Debug\net9.0\all_the_beans_api.pdb
 C:\Users\nadi_\source\repos\All_Beans_Tech_Test\all_the_beans_api\all_the_beans_api\obj\Debug\net9.0\all_the_beans_api.genruntimeconfig.cache
 C:\Users\nadi_\source\repos\All_Beans_Tech_Test\all_the_beans_api\all_the_beans_api\obj\Debug\net9.0\ref\all_the_beans_api.dll
+C:\Users\nadi_\source\repos\All_Beans_Tech_Test\all_the_beans_api\all_the_beans_api\bin\Debug\net9.0\MockData\AllTheBeans 1 (1).json

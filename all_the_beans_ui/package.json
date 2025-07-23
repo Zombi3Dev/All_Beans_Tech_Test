@@ -1,6 +1,7 @@
 {
   "name": "all_the_beans_ui",
   "version": "0.1.0",
+  "proxy" : "http://localhost:7036/",
   "private": true,
   "dependencies": {
     "@emotion/react": "^11.14.0",
