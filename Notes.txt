@@ -1,0 +1,10 @@
+Improvements to be made:
+UI:
+1) need to index the array properly for the detail button and modal
+2) I should reinforce the axios get call to the api
+3) clearer functionality
+
+API:
+
+1) Add automated testing to work inline with TDD
+2) Rather than mock jsonResult data, I should have read from the json file in the mock data directory.
